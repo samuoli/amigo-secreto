@@ -1,6 +1,8 @@
 #  Amigo Secreto
 <hr>
-Um projeto simples para organizar sorteios de **Amigo Secreto** pelo navegador.  
+
+## Sobre
+Um projeto simples feito para o challenge da Alura durante programa ONE, para prática da lógica de programação. O desafio é de organizar sorteios de **Amigo Secreto** pelo navegador.  
 Você pode adicionar os nomes dos participantes, exibir a lista e realizar o sorteio de forma totalmente automática e aleatória.
 
 ##  Funcionalidades

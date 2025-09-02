@@ -32,7 +32,7 @@ function sortearAmigo() {
 
 
 - **Sortear amigo secreto**  
-  Ao clicar em **Sortear amigo**, o sistema escolhe automaticamente um nome da lista usando `Math.random()` e exibe o resultado em destaque.
+  Quando clica em **Sortear amigo**, o sistema escolhe aleatóriamente um nome da lista usando `Math.random()` e exibe o nome do sorteado em destaque.
 
 <img width="1217" height="577" alt="image" src="https://github.com/user-attachments/assets/cbfd7dcb-651a-4507-bd70-72c69515b453" />
 <img width="1117" height="636" alt="image" src="https://github.com/user-attachments/assets/cccacfd3-945e-485d-852b-b0c35c5d7468" />

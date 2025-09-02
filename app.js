@@ -26,7 +26,7 @@ function exibirLista(){
 
 function sortearAmigo(){
     if(amigos.length === 0){
-        alert('A lista está vazia. Adicione ao menos dois participantes antes de continuar.');
+        alert('A lista está vazia. Adicione amigos antes de continuar.');
         return;
     }
     let indice = Math.floor(Math.random() * amigos.length);
